@@ -1,0 +1,33 @@
+.post{
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 15px;
+    background-color: beige;
+}
+.post_top{
+    display: flex;
+    align-items: center;
+    margin-top:10px ;
+}
+.post_top > p{
+    margin:0 10px;
+}
+.post_bottom > img{
+    width: 400px;
+}
+.addcomm{
+    
+    margin-top: 20px;
+    display: flex;
+}
+.addcomm > form{
+    flex: 1;
+    display: flex;
+}
+.addcomm > form >input{
+    border: none;
+    outline-width: 0;
+    border-radius: 999px;
+    background-color: white;
+    margin: 0 10px;
+}

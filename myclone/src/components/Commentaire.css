@@ -1,0 +1,13 @@
+.commentaire{
+    border-radius: 15px;
+    background-color: aquamarine;
+    width: 100%;
+}
+.comtop{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.commentaire > p{
+    margin: 0 10px;
+}
